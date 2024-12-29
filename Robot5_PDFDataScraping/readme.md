@@ -1,6 +1,6 @@
 # PDF data scrapper
 
-This bot processes 1,000 PDF invoices, extracts key details (invoice number, date, company name, total amount), and outputs the data to an Excel spreadsheet. Additionally, it logs successes and failures, moving invoices to respective folders.
+This bot processes PDF invoices, extracts key details (invoice number, date, company name, total amount), and outputs the data to an Excel spreadsheet. Additionally, it logs successes and failures and moves invoices to respective folders.
 
 **Key Features:**
 
